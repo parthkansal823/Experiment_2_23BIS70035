@@ -36,9 +36,9 @@ Design a visually appealing and responsive banking user interface using only HTM
 
 
 ## Screenshots
-### Code HTML5
+### Code-HTML5
 ![Alt Text](html1.png)
-### Code CSS
+### Code-CSS
 ![Alt Text](css1.png)
 ![Alt Text](css2.png)
 ![Alt Text](css3.png)
